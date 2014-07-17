@@ -1,3 +1,10 @@
 ---
-web: http://localhost:9201
-timer: http://localhost:9202
+bitballoon: https://connectors.factor.io/v0.3/bitballoon
+bitbucket: https://connectors.factor.io/v0.3/bitbucket
+github: https://connectors.factor.io/v0.3/github
+heroku: https://connectors.factor.io/v0.3/heroku
+hipchat: https://connectors.factor.io/v0.3/hipchat
+middleman: https://connectors.factor.io/v0.3/middlemanb
+ssh: https://connectors.factor.io/v0.3/ssh
+timer: https://connectors.factor.io/v0.3/timer
+web: https://connectors.factor.io/v0.3/web

@@ -1,1 +1,1 @@
-factor: factor s
+factor: bundle exec factor s

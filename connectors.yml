@@ -1,10 +1,10 @@
 ---
-bitballoon: https://open-connectors.factor.io/v0.4/bitballoon
-bitbucket: https://open-connectors.factor.io/v0.4/bitbucket
-github: https://open-connectors.factor.io/v0.4/github
-heroku: https://open-connectors.factor.io/v0.4/heroku
-hipchat: https://open-connectors.factor.io/v0.4/hipchat
-middleman: https://open-connectors.factor.io/v0.4/middlemanb
-ssh: https://open-connectors.factor.io/v0.4/ssh
-timer: https://open-connectors.factor.io/v0.4/timer
-web: https://open-connectors.factor.io/v0.4/web
+bitballoon: wss://open-connectors.factor.io/v0.4/bitballoon
+bitbucket: wss://open-connectors.factor.io/v0.4/bitbucket
+github: wss://open-connectors.factor.io/v0.4/github
+heroku: wss://open-connectors.factor.io/v0.4/heroku
+hipchat: wss://open-connectors.factor.io/v0.4/hipchat
+middleman: wss://open-connectors.factor.io/v0.4/middlemanb
+ssh: wss://open-connectors.factor.io/v0.4/ssh
+timer: wss://open-connectors.factor.io/v0.4/timer
+web: wss://open-connectors.factor.io/v0.4/web

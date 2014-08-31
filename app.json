@@ -9,7 +9,7 @@
   "repository": "https://github.com/Taytay/example-workflows",
   "success_url": "/",
   "scripts": {
-    "postdeploy": "foremant start"
+    "postdeploy": "foreman start"
   },
   "env": {
 

@@ -1,0 +1,18 @@
+{
+  "name": "Factor.io example-workflows",
+  "description": "This is the Heroku-deployable version of Factor.io's example-workflows",
+  "keywords": [
+    "Factor",
+    "Factor.io",
+    "Heroku"
+  ],
+  "repository": "https://github.com/Taytay/example-workflows",
+  "success_url": "/",
+  "scripts": {
+  },
+  "env": {
+
+  },
+  "addons": [
+  ]
+}

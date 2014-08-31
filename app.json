@@ -6,13 +6,12 @@
     "Factor.io",
     "Heroku"
   ],
-  "repository": "https://github.com/Taytay/example-workflows",
+  "repository": "https://github.com/factor-io/example-workflows",
   "success_url": "/",
   "scripts": {
-    "postdeploy": "foreman start"
   },
   "env": {
-
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-ruby"
   },
   "addons": [
   ]

@@ -11,6 +11,11 @@
   "scripts": {
   },
   "env": {
+    "WEBHOOK_URL":{
+      "description": "The URL for where to POST when the workflow runs. Get one from http://requestb.in/",
+      "required":true,
+      "value":"http://requestb.in/ta2872ta"
+    }
   },
   "addons": [
   ]

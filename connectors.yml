@@ -1,10 +1,17 @@
 ---
 bitballoon: wss://open-connectors.factor.io/v0.4/bitballoon
-bitbucket: wss://open-connectors.factor.io/v0.4/bitbucket
 github: wss://open-connectors.factor.io/v0.4/github
 heroku: wss://open-connectors.factor.io/v0.4/heroku
 hipchat: wss://open-connectors.factor.io/v0.4/hipchat
-middleman: wss://open-connectors.factor.io/v0.4/middlemanb
 ssh: wss://open-connectors.factor.io/v0.4/ssh
 timer: wss://open-connectors.factor.io/v0.4/timer
 web: wss://open-connectors.factor.io/v0.4/web
+pushover: wss://open-connectors.factor.io/v0.4/pushover
+ftp: wss://open-connectors.factor.io/v0.4/ftp
+travis: wss://open-connectors.factor.io/v0.4/travis
+rackspce:
+  compute: wss://open-connectors.factor.io/v0.4/rackspace_compute
+  flavors: wss://open-connectors.factor.io/v0.4/rackspace_compute_flavors
+  images: wss://open-connectors.factor.io/v0.4/rackspace_compute_images
+newrelic:
+  metrics: wss://open-connectors.factor.io/v0.4/newrelic_metrics

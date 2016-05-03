@@ -1,13 +1,13 @@
 GIT
   remote: https://github.com/factor-io/connector-timer.git
-  revision: 00ad4880fda836b0fc094e4d7f9236f394eec825
+  revision: 29005a9cae3ffbc2c6a297c56d5eb64894865466
   specs:
     factor-connector-timer (3.0.01)
       rufus-scheduler (~> 3.2.0)
 
 GIT
   remote: https://github.com/factor-io/connector-web.git
-  revision: afd19784fe02e86a572bafe7875ee6842c1e5e40
+  revision: d27be000e6f6f372d9a485ae61b922a79ca241d2
   specs:
     factor-connector-web (0.3.01)
       ngrok-tunnel (~> 2.1.0)

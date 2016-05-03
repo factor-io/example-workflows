@@ -16,7 +16,8 @@ web_hook.on(:log) do |log_info|
 end
 
 begin
-  web_hook.execute.wait
+  web_hook.execute
+  web_hook.wait
 rescue
   warn 'finished'
 end

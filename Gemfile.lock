@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/factor-io/connector-timer.git
-  revision: fedabc34caff13b1a50690f2eb312f7e8873e15d
+  revision: 00ad4880fda836b0fc094e4d7f9236f394eec825
   specs:
     factor-connector-timer (3.0.01)
       rufus-scheduler (~> 3.2.0)
@@ -17,7 +17,7 @@ GIT
 
 GIT
   remote: https://github.com/factor-io/factor.git
-  revision: e40664645e46da1ea3f7658911749e1a6f4be4b1
+  revision: 0d83dceb5883870acd9bd30f912ff602182f6f21
   specs:
     factor (3.0.0)
       commander (~> 4.4.0)

@@ -15,9 +15,5 @@ web_hook.on(:log) do |log_info|
   debug log_info[:message]
 end
 
-begin
-  web_hook.execute
-  web_hook.wait
-rescue
-  warn 'finished'
-end
+web_hook.execute
+web_hook.wait
